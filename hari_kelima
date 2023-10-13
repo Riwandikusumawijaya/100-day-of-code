@@ -1,0 +1,34 @@
+
+package javaapplication43;
+
+public class JavaApplication43 {
+
+    public static void main(String[] args) {
+        /*int nilai = 2;
+        int angka = 3;
+        System.out.println(nilai+angka);*/
+        //type data
+        String nama ="riwan";
+        int umur = 19;
+        double tinggi_Badan= 10.9;
+        float berat_badan = 7;
+        char gender = 'L';
+        long umurt = -2;
+        boolean sembarang = true;
+        System.out.println(nama);
+        System.out.println("informatika");
+        System.out.println(umur);
+        System.out.println(tinggi_Badan);
+        System.out.println(berat_badan);
+        System.out.println(gender);
+        System.out.println(umurt);
+        System.out.println(sembarang);
+        System.out.println();
+        
+        
+        
+                
+
+    }
+    
+}
