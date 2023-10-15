@@ -6,7 +6,7 @@ public class Hari_ke7 {
         System.out.println("Kenapa aku harus cemburu meliht kamu dekat dengan orang lain,padahal kita gak ada hubungan apa-apa");
         System.out.println("Gini amat terjebak oleh rasa nyaman yang tidak akan mungkin bisa untuk dimiliki");
         System.out.println("Dekat denganmu adalah sakit hati yang kusengaja ");
-        System.out.println("Aku cemburu?. Iya iyalah k0nt0l");
+        System.out.println("Aku cemburu?. Iya iyalah peka dikit napa");
         System.out.println("Pantas berubah ternyata masalalunya datang lagi wkwkw");
         System.out.println("Lebih baik terjebak oleh ulti yin dari pada terjebak oleh rasa nyaman Namun hanya sebatas teman");
         System.out.println("Jangan pernah menggunakan seseorang untuk melupakan seseorang");
