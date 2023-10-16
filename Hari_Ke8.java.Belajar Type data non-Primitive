@@ -1,0 +1,21 @@
+
+package hari_ke8;
+public class Hari_Ke8 {
+    public static void main(String[] args) {
+    String nama = "Nama = " + "Riwandi Kusuma Wijaya";
+    String umur = "Umur = " + "19 Tahun";      
+String alamat ="Alamat = Malatiro,KEC.Tabulahan,KAB.Mamasa";
+String Hobi = "Hobi = sepak takraw";
+String beratbadan = "Berat Badan = 50 kg";
+String tinggibadan = "Tinggi Badan = 157 cm";
+        System.out.println(nama);
+        System.out.println(umur);
+        System.out.println(alamat);
+        System.out.println(Hobi);
+        System.out.println(beratbadan);
+        System.out.println(tinggibadan);
+        
+        
+    }
+    
+}
