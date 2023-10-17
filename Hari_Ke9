@@ -1,0 +1,23 @@
+
+package javaapplication50;
+
+public class JavaApplication50 {
+
+    public static void main(String[] args) {
+        int umur = 20;
+        int usia = 19;
+        int hasil = umur * usia;
+        System.out.println(hasil);
+        
+        for (int i = 9; i > 4; i--) {
+            System.out.println(i);
+            
+        }
+        
+        for (int i = 1; i<= 4; i++) {
+            System.out.println("Selamat Sore");
+            
+        }
+    }
+    
+}
