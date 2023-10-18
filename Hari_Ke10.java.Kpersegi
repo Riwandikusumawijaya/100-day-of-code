@@ -1,0 +1,20 @@
+
+package hari_ke10;
+public class Hari_Ke10 {
+    public static void main(String[] args) {
+    //menghitung luas dan keliling persegi
+    /*
+    L = s x s
+    K = 4 x s
+    */
+    int s, L, K;
+    s = 6;
+    L = s * s;
+    K = 5 * s;
+        System.out.print("Luas Persegi = ");
+        System.out.println(L);
+        System.out.print("Keliling Persegi = ");
+        System.out.println(K);
+       
+    }   
+}
