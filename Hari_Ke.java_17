@@ -1,0 +1,24 @@
+
+package hari_ke;
+
+public class Hari_Ke {
+
+    public static void main(String[] args) {
+        //Operator Penugasan
+        int a, c;
+        a = 6;
+        c = 4;
+        a += c;
+        System.out.println(a);
+        a -= c;
+        System.out.println(a);
+        a /= c;
+        System.out.println(a);
+        a *= c;
+        System.out.println(a);
+        a %= c;
+        System.out.println(a);
+        
+    }
+    
+}
