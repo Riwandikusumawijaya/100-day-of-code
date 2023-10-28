@@ -1,0 +1,11 @@
+package javaapplication5;
+public class JavaApplication5 {
+    public static void main(String[] args) {
+      int angka = 9;
+        double ukuran = 4.5;
+        System.out.println(angka>ukuran);  
+        System.out.println(angka<ukuran);
+        System.out.println(ukuran*angka);
+    }
+    
+}
